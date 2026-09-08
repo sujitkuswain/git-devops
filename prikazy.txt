@@ -41,3 +41,52 @@ cat id...
 workingtree
 staging
 repository
+
+resolving na github riesia prikazy v gitbashi:
+export HTTP_PROXY = 
+http://sia.telekom.de:8080/
+
+export HTTPS_PROXY = 
+http://sia.telekom.de:8080/
+
+-----------
+-----------
+
+DEN 2
+-----------
+git checkout -b nazov
+git switch
+git merge branch
+
+echo "# Den 2 demo" > day2-flow.md
+
+git log --oneline --graph --all --decorate --max-count=12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
